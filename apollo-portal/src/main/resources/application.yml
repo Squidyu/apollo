@@ -10,7 +10,7 @@ server:
     enabled: true
   
 logging:
-  file: /opt/logs/100003173/apollo-portal.log
+  file: /Users/xuzhiwu/Desktop/document/apollo-portal.log
 
 management:
   health:
